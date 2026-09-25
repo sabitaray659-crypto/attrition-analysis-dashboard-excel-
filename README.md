@@ -4,6 +4,7 @@ Interactive HR Analytics Dashboard in Excel to analyze employee attrition, job s
 
 This project presents an interactive HR Analytics Dashboard created in Microsoft Excel** to analyze employee attrition and understand the key factors associated with employee turnover.The dashboard provides a visual overview of employee demographics, attrition patterns, job satisfaction, departments, job roles, education fields, age groups, and marital status.The objective of this project is to demonstrate practical skills in **HR Analytics, Excel Dashboard Development, Data Cleaning, Data Analysis, and Data Visualization.
 # data used
+<a href='https://github.com/sabitaray659-crypto/attrition-analysis-dashboard-excel-/blob/main/HR%20DATA(%20attrition%20analysis%20).xlsx'>Dataset</a>
 
 # Objectives
 
